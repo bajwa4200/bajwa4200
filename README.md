@@ -32,13 +32,6 @@ Currently leading **EXO-Δ** (digital transformation agency), driving **B2B grow
 
 My work spans the full spectrum: production Laravel/Django/Next.js applications, PyTorch transformers built from scratch, quantum circuit simulators in NumPy, Raft consensus implementations, and real-time collaborative systems using CRDTs. I don't use frameworks as black boxes — I understand what's underneath.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  "I don't build software — I grow it, root by root,             │
-│   into structures that breathe."                                │
-└─────────────────────────────────────────────────────────────────┘
-```
-
 <br/>
 
 ---
